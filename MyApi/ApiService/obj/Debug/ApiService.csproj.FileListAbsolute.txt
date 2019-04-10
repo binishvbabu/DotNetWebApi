@@ -1,0 +1,9 @@
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\bin\Debug\ApiService.dll
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\bin\Debug\ApiService.pdb
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\bin\Debug\Model.dll
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\bin\Debug\Model.pdb
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\obj\Debug\ApiService.csprojAssemblyReference.cache
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\obj\Debug\ApiService.csproj.CoreCompileInputs.cache
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\obj\Debug\ApiService.csproj.CopyComplete
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\obj\Debug\ApiService.dll
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\ApiService\obj\Debug\ApiService.pdb

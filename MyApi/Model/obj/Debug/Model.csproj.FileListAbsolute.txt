@@ -1,0 +1,6 @@
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\Model\bin\Debug\Model.dll
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\Model\bin\Debug\Model.pdb
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\Model\obj\Debug\Model.dll
+C:\Binish\Projects\April 2019\MyWebApi\MyApi\Model\obj\Debug\Model.pdb
